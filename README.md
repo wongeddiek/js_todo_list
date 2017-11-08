@@ -1,6 +1,6 @@
 # Todo List JavaScript App
 
-Initial Repository for creating a basic todo list in purely frontend tools: HTML/CSS/JS
+Initial Repository for creating a basic todo list with only front-end tools: HTML/CSS/JS
 
 # Preview
 
