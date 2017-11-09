@@ -12,6 +12,7 @@ body {
 
 h1 {
   margin: 20px;
+  color: #4F3104;
 }
 
 #app {
@@ -28,6 +29,7 @@ form {
 
 #create {
   width: 100%;
+  box-sizing: border-box;
   font-family: inherit;
   font-size: inherit;
   padding: 10px 30px;

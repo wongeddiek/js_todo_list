@@ -135,3 +135,5 @@ $('#add-form').submit(function() {
 
 // get list on page load by calling getList() function
 getList();
+
+
